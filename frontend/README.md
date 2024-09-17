@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### installation de BootstrapVue(une variante du framework bootstrap) ensuite on l'importe dans le main.js
+```sh
+npm install vue bootstrap-vue bootstrap
+```

@@ -1,5 +1,5 @@
 <script setup>
-defineProps({
+defineProps({ //définir les propriétés du composant; ou encore ses paramètres
   msg: {
     type: String,
     required: true
